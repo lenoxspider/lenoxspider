@@ -3,7 +3,6 @@
 - 👀 I’m interested in cybersecurity, networking, and building cool web tools (especially captive portals).
 - 🌱 I’m currently learning Python and discrete mathematics.
 - 💞️ I’m looking to collaborate on open-source security tools, automation scripts, and educational tech projects.
-- 📫 How to reach me: d.yoofii78@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love horror movies and racing games.
 
