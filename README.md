@@ -21,7 +21,8 @@
 
 ### 📊 GitHub Stats
 ![Lenox's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenoxspider&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoxspider&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoxspider&layout=compact&langs_count=6&hide=javascript,html,css,hack,php)
+
 
 ---
 
