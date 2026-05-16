@@ -32,5 +32,4 @@ Open to collaborating on:
 ## Contact
 - GitHub: https://github.com/lenoxspider
 - Email: d.yoofii78@gmail.com
-- LinkedIn: https://www.linkedin.com/in/your-handle/
 
