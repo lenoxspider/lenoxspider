@@ -25,9 +25,13 @@ Open to collaborating on:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-## GitHub Stats
-![Lenox's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenoxspider&show_icons=true&hide_title=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoxspider&layout=compact&theme=radical)
+---
+
+### 📊 Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lenoxspider&theme=dark)](https://git.io/streak-stats)
+
+---
 
 ## Contact
 - GitHub: https://github.com/lenoxspider
