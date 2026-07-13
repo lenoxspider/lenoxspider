@@ -1,39 +1,23 @@
-# Lenox (lenoxspider)
+# Hi 👋, I'm 1337
 
-Cybersecurity and networking learner building practical tooling and small projects, with a focus on web-based workflows (including captive portals) and automation.
+- 👯 I'm looking to collaborate on **trading bots**
 
-## Focus Areas
-- Cybersecurity fundamentals and defensive tooling
-- Networking and traffic analysis
-- Automation and small web utilities
+- 🤝 I'm looking for help with **malware creation**
 
-## Currently Learning
-- Python
-- Discrete mathematics
+- ⚡ Fun fact **psycho**
 
-## Collaboration
-Open to collaborating on:
-- Open-source security tools (beginner-friendly issues welcome)
-- Automation scripts
-- Educational tech projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/lenoxspider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lenoxspider" height="30" width="40" /></a>
+<a href="https://instagram.com/unkiki_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unkiki_7" height="30" width="40" /></a>
+</p>
 
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenoxspider&show_icons=true&locale=en&layout=compact" alt="lenoxspider" /></p>
 
-### 📊 Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lenoxspider&show_icons=true&locale=en" alt="lenoxspider" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lenoxspider&theme=dark)](https://git.io/streak-stats)
-
----
-
-## Contact
-- GitHub: https://github.com/lenoxspider
-- Email: d.yoofii78@gmail.com
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lenoxspider&" alt="lenoxspider" /></p>
 
