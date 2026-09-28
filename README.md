@@ -121,14 +121,6 @@ Every one ships with a leak-free backtest engine, out-of-sample validation, and 
 
 ---
 
-## `$ now`
-
-- iterating on [whatsapp_messiah](https://github.com/lenoxspider/whatsapp_messiah) and [yoof1337](https://github.com/lenoxspider/yoof1337)
-- expanding [ai-trader](https://github.com/lenoxspider/ai-trader)'s agent roster and risk gates
-- taking [lynx_limit_edition](https://github.com/lenoxspider/lynx_limit_edition)'s passive-entry edge past the deploy bar
-- open to collabs on agents, automation, backends or trading systems
-- fastest way to reach me: [Telegram](https://t.me/lenoxspider)
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=lenoxspider&style=for-the-badge&color=9d4edd&label=PROFILE+VIEWS" />
