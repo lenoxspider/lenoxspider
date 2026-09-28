@@ -106,16 +106,12 @@ Every one ships with a leak-free backtest engine, out-of-sample validation, and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lenoxspider&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenoxspider&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenoxspider&theme=radical" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lenoxspider&theme=radical" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=lenoxspider&theme=radical&hide_border=true&background=0d1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lenoxspider&theme=react-dark&hide_border=true&bg_color=0d1117&color=9d4edd&line=9d4edd&point=ffffff&area=true" width="100%" />
 
 </div>
 
